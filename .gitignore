@@ -1,0 +1,16 @@
+# Python compiled bytecodes
+*.pyc
+
+# Sqlite DB
+*.sqlite
+
+# Program generated files
+*.log
+
+# virtual environment
+env/
+trash/
+public/
+
+# local settings
+starlancer/local_settings.py
